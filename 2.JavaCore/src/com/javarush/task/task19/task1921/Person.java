@@ -18,4 +18,12 @@ public class Person {
     public Date getBirthday() {
         return birthday;
     }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "name='" + name + '\'' +
+                ", birthday=" + birthday +
+                '}';
+    }
 }

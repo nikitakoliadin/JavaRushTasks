@@ -42,5 +42,9 @@ public class Solution {
         } catch (IOException | ParseException e) {
             e.printStackTrace();
         }
+
+        PEOPLE.forEach(System.out::println);
+
+        System.out.println("Иванов Иван Иванович 31 12 1987".replaceAll(" \\d{0,2} \\d{0,2} \\d{4}$", ""));
     }
 }
