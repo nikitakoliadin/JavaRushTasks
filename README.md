@@ -1,2 +1,4 @@
-# This is JavaRush tasks
+# JavaRushTasks
+
+_This project is project from **https://javarush.ru/**_
 
