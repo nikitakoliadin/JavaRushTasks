@@ -27,6 +27,24 @@ public class Solution {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        // try (FileInputStream inputStream = new FileInputStream(args[1]);
+        // 	 FileOutputStream outputStream = new FileOutputStream(args[2])) {
+
+
+        //     while (inputStream.available() > 0) {
+        //         byte[] a1 = new byte[inputStream.read()];
+
+        //         if (args[0].equals("-e")) {
+        //             byte[] result = java.util.Base64.getEncoder().encode(a1);
+        //             outputStream.write(result);
+        //         }
+        //         if (args[0].equals("-d")) {
+        //             byte[] result = java.util.Base64.getDecoder().decode(a1);
+        //             outputStream.write(result);
+        //         }
+        //     }
+        // }
     }
 
     private static void crypto(byte[] x) {
