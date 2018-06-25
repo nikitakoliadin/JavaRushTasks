@@ -1,5 +1,5 @@
 # JavaRushTasks
 
-_This project is project from **https://javarush.ru/**_
+This project is the project from https://javarush.ru/
 
-_Me: **https://javarush.ru/users/1324097**_
+Me: https://javarush.ru/users/1324097
