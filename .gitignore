@@ -1,19 +1,11 @@
-# gitignore file
+# Gitignore file
 
-# package file
-*.jar
-*.war
-*.ear
+# Folders
+.idea/
+out/
 
-# idea and out/targeet folders
-.idea/*
-target/*
-out/*
-
-# files
+# Files
 *.iml
-*.class
 *.properties
 *.log
-*.log.*
 *.png
