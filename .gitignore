@@ -8,4 +8,5 @@ out/
 *.iml
 JavaRushPlugin.properties
 *.log
+*.log.*
 *.png
