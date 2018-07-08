@@ -7,6 +7,5 @@ out/
 # Files
 *.iml
 JavaRushPlugin.properties
-*.log
-*.log.*
+out.log*
 *.png
